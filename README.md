@@ -49,7 +49,7 @@ o/p:
 
 ![image](https://github.com/user-attachments/assets/7a1567d6-696e-4bbd-bb8c-842adff0827f)
 
-2.Sum of numbers 1 to n
+2. Sum of numbers 1 to n
 ```
 #include <iostream>
 using namespace std;
